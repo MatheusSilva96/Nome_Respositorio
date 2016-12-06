@@ -1,7 +1,0 @@
-<<<<<<< HEAD
-﻿hello  world!
-asdfasdf
-sei lah
-=======
->>>>>>> parent of b50f992... "äterando aquivo"
-
